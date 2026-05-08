@@ -4,7 +4,7 @@ import { TabsPage } from './tabs.page';
 
 const routes: Routes = [
   {
-    path: 'tabs',
+    path: '',
     component: TabsPage,
     children: [
       {
@@ -18,6 +18,10 @@ const routes: Routes = [
       {
         path: 'tab3',
         loadChildren: () => import('../tab3/tab3.module').then(m => m.Tab3PageModule)
+      },
+      {
+        path: 'api-list',
+        loadChildren: () => import('../pages/api-list/api-list.module').then(m => m.ApiListPageModule)
       },
       {
         path: '',

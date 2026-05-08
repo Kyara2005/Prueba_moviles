@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Router } from '@angular/router';
 import { AlertController } from '@ionic/angular';
 
 @Component({
@@ -8,7 +9,7 @@ import { AlertController } from '@ionic/angular';
   standalone: false,
 })
 export class Tab1Page {
-  constructor(private alertController: AlertController) {}
+  constructor(private alertController: AlertController, private router: Router) {}
 
   async presentAlert() {
     const alert = await this.alertController.create({
@@ -19,4 +20,9 @@ export class Tab1Page {
 
     await alert.present();
   }
+  api() {
+    this.router.navigateByUrl('/tabs/api-list');
+  }
 }
+
+
