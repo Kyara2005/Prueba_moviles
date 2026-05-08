@@ -42,3 +42,12 @@ Uso de IA (prompts utilizados):
 <img width="375" height="563" alt="image" src="https://github.com/user-attachments/assets/a18d04e2-f40b-4f1a-8079-d6d0b3584e1c" />
 <img width="366" height="800" alt="image" src="https://github.com/user-attachments/assets/c207dcb6-3ab4-483f-94c3-cef51d044194" />
 <img width="371" height="794" alt="image" src="https://github.com/user-attachments/assets/77ea0697-e682-4fe0-82a1-3bace6681edd" />
+
+## Capturas de pantalla
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/83f8f866-4842-4a0e-b252-c949d76b8c4c" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a18d04e2-f40b-4f1a-8079-d6d0b3584e1c" width="300"/>
+  <img src="https://github.com/user-attachments/assets/c207dcb6-3ab4-483f-94c3-cef51d044194" width="300"/>
+  <img src="https://github.com/user-attachments/assets/77ea0697-e682-4fe0-82a1-3bace6681edd" width="300"/>
+</p>
